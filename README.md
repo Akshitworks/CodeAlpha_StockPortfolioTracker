@@ -132,8 +132,3 @@ Total Portfolio Value = $3050
 
 ---
 
-
-
-Your Name
-
-GitHub: https://github.com/yourusername
